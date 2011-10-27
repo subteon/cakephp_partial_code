@@ -22,6 +22,6 @@ $params = array(
 	'callbacks' => true //false, 'before', 'after'
 );
 
-pr($this->Reservations->find('all', $params));
+pr($this->Model->find('all', $params));
 
 ?>
