@@ -1,3 +1,4 @@
+<!-- CakePHP 1.3.x -->
 <?php echo 
 	$html->link(
 		$html->image('foo.png'),

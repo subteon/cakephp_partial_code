@@ -1,5 +1,7 @@
 <?php
 
+//CakePHP 1.3.x
+
 var $uses = array('Model');
 
 $db_field_id = 1;
