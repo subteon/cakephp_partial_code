@@ -1,9 +1,9 @@
 <!-- CakePHP 1.3.x -->
 <?php echo 
 	$html->link(
-		$html->image('foo.png', array('alt'=> __('foo', true), 'class'=>'var')),
+		$html->image('foo.png', array('alt'=> __('foo', true))),
 		'/projects/',
-		array('target' => '_self', 'escape' => false),
+		array('class'=>'var', 'target' => '_self', 'escape' => false),
 		false,
 		false
 	);
