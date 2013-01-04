@@ -1,4 +1,4 @@
-<?php if( !empty($items) ){ ?>
+<?php if( !empty($samples) ){ ?>
     <?php if ($this->Paginator->counter('{:pages}') > 1 ){ ?>
 
         <div class="pagination">
