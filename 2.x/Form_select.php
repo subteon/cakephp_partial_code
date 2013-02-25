@@ -8,9 +8,9 @@
 		'select_item',
 		$list,
 		array(
-			'value' = $default,
-			'empty' = false	//ブランクなしに設定
-		),
+			'value' => $default,
+			'empty' => false	//ブランクなしに設定
+		)
 	);
 	
 ?>
